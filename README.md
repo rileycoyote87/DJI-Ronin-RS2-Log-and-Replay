@@ -11,7 +11,7 @@ see ronin-play and ronin-record for required python dependencies to install
 
 CANable Pro with candlelight firmware for pure socket can connection
 
-Custom 3D printed RS2 can connector or DJI R Focush Wheel
+Custom 3D printed RS2 can connector or DJI R Focus Wheel
 
 
 1) Create a Bin folder in your home directory, add all files to bin directory

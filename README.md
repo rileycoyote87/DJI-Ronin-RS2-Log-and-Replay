@@ -7,6 +7,8 @@ based previously on https://github.com/ceinem/dji_rs2_ros_controller
 
 Python3 using Ubuntu Focal Fossa
 
+see ronin-play and ronin-record for required python dependencies to install
+
 CANable Pro with candlelight firmware for pure socket can connection
 
 Custom 3D printed RS2 can connector or DJI R Focush Wheel

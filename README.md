@@ -27,7 +27,7 @@ export PATH=$PATH:~/bin
 ```
 
 
-4) run sudo can-up in terminal to initialize the can device (you'll need to edit this file depending on your type of can device interface)
+4) run `sudo can-up`  in terminal to initialize the can device (you'll need to edit this file depending on your type of can device interface)
 5) run ronin-record to record the movements to the log
 6) move the ronin using joystick or force mobile
 7) use CTRL-C to end the program

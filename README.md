@@ -32,3 +32,12 @@ export PATH=$PATH:~/bin
 6) move the ronin using joystick or force mobile
 7) use CTRL-C to end the program
 8) run ronin-play to playback the movement
+
+
+## Required dependencies
+```
+pip3 install python-can
+pip3 install icecream
+pip3 install pandas
+```
+

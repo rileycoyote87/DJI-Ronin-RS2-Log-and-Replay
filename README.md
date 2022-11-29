@@ -6,8 +6,11 @@ Made in collaboration and consultation by Cornelius von Einem, Casey Basichis, R
 based previously on https://github.com/ceinem/dji_rs2_ros_controller
 
 Python3 using Ubuntu Focal Fossa
+
 CANable Pro with candlelight firmware for pure socket can connection
+
 Custom 3D printed RS2 can connector or DJI R Focush Wheel
+
 
 1) Create a Bin folder in your home directory, add all files to bin directory
 2) use nano to edit your .bashrc file - $ nano ~/.bashrc

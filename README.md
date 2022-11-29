@@ -15,9 +15,10 @@ Custom 3D printed RS2 can connector or DJI R Focus Wheel
 
 
 1) Create a bin folder in your home directory, add all files to bin directory
-2) use nano to edit your .bashrc file - $ nano ~/.bashrc
+2) use nano to edit your .bashrc file -   
+      $ nano ~/.bashrc
 3) add the following line to the .bashrc end of file. it will allow you to simply type the name of the python scripts and bash scripts for bringing up the can device in the terminal to excute
-export PATH=$PATH:~/bin
+      export PATH=$PATH:~/bin
 4) run sudo can-up in terminal to initialize the can device (you'll need to edit this file depending on your type of can device interface)
 5) run ronin-record to record the movements to the log
 6) move the ronin using joystick or force mobile

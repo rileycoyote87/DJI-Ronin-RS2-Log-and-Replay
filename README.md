@@ -3,7 +3,7 @@ based on the Ronin SDK this simple two script python set reads and logs gimbal y
 
 Made in collaboration and consultation by Cornelius von Einem, Casey Basichis, Riley Harmon, and DJI Engineers 
 
-based previously on https://github.com/ceinem/dji_rs2_ros_controller
+based previously on [dji_rs2_ros_controller](https://github.com/ceinem/dji_rs2_ros_controller) and the R SDK Demo Software.
 
 Python3 using Ubuntu Focal Fossa
 

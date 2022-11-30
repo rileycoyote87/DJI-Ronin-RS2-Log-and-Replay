@@ -14,7 +14,7 @@ see ronin-play and ronin-record for required python dependencies to install
 Custom 3D printed RS2 CAN connector or DJI R Focus Wheel
 
 
-1) Create a bin folder in your home directory, add all files to bin directory
+1) Create a bin folder in your home directory, add all files to bin directory, make sure all files have permission as executable
 2) use nano to edit your .bashrc file -   
 ```
 $ nano ~/.bashrc

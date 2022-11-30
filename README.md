@@ -25,13 +25,14 @@ $ nano ~/.bashrc
 ```
 export PATH=$PATH:~/bin
 ```
+save the .bashrc file and either re-initalize it or close the terminal and open a new terminal window
 
 
 4) run `sudo can-up`  in terminal to initialize the can device (you'll need to edit this file depending on your type of can device interface)
-5) run 'ronin-record' to record the movements to the log
+5) run `ronin-record` in terminal to record the movements to the log
 6) move the ronin using joystick or force mobile
-7) use CTRL-C to end the program
-8) run ronin-play to playback the movement
+7) use `CTRL-C` in terminal to end the program
+8) run `ronin-play` in termal to playback the movement
 
 
 ## Required dependencies

@@ -33,6 +33,7 @@ save the .bashrc file and either re-initalize it or close the terminal and open 
 6) move the ronin using joystick or force mobile
 7) use `CTRL-C` in terminal to end the program
 8) run `ronin-play` in termal to playback the movement
+9) run `can-down` to de-initialize the can controller
 
 
 ## Required dependencies

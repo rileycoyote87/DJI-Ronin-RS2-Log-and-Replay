@@ -41,5 +41,7 @@ save the .bashrc file and either re-initalize it or close the terminal and open 
 pip3 install python-can
 pip3 install icecream
 pip3 install pandas
+pip3 install pyserial
+pip3 install playsound
 ```
 

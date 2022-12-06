@@ -25,7 +25,7 @@ $ nano ~/.bashrc
 ```
 export PATH=$PATH:~/bin
 ```
-save the .bashrc file and either re-initalize it or close the terminal and open a new terminal window
+save the .bashrc file and either re-source it or close the terminal and open a new terminal window
 
 
 4) run `sudo can-up`  in terminal to initialize the can device (you'll need to edit this file depending on your type of can device interface)

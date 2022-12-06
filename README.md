@@ -1,4 +1,9 @@
 # DJI Ronin RS2/3 Pro - Log and Replay Movements
+
+LICENSE USE
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 
+https://creativecommons.org/licenses/by-nc/4.0/
+
 based on the Ronin SDK this simple two script python set reads and logs gimbal yaw, roll, pitch, and focus motor position, and then will replay the movement based on the log. Used as a cinematography and vfx motion control tool.
 
 Made in collaboration and consultation by [Cornelius von Einem](https://github.com/ceinem), Casey Basichis, [Riley Harmon](https://rileyharmon.com), and DJI Engineers 

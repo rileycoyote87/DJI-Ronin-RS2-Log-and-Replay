@@ -15,7 +15,7 @@ Custom 3D printed RS2 CAN connector or DJI R Focus Wheel ([connection diagram](h
 
 
 1) Create a bin folder in your home directory, add all files to bin directory, make sure all files have permission as executable
-2) use nano to edit your .bashrc file -   
+2) use nano to edit your .bashrc file    
 ```
 $ nano ~/.bashrc
 ```
